@@ -3,6 +3,9 @@
 .DS_Store
 train.txt
 dev.txt
+words_th.txt
+corpora
+corpora.tar.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
