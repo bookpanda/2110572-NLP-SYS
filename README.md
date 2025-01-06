@@ -1,4 +1,11 @@
 # NLP_2025 (2110572 NLP SYS @Chula)
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+# pip install <> && pip freeze > requirements.txt
+```
 
 ![alt text](https://github.com/ekapolc/nlp_2025/blob/main/obviouslyaigenerated.png "join nlp")
 
