@@ -6,6 +6,9 @@ dev.txt
 words_th.txt
 corpora
 corpora.tar.gz
+BEST2010.zip
+BEST2010
+tokenized_wiki_sample.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
