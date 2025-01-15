@@ -10,12 +10,6 @@ BEST2010.zip
 BEST2010
 tokenized_wiki_sample.csv
 kratoo-40000000-40002000.jsonl
-pra-apai-manee-ch1-50.txt
-train_corpus.txt
-unigram.model
-unigram.vocab
-bpe.model
-bpe.vocab
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
