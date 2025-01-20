@@ -64,6 +64,7 @@ pyparsing==3.2.1
 PySocks==1.7.1
 pythainlp==5.0.5
 python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
 pytorch-lightning==2.5.0.post0
 pytz==2024.2
 PyYAML==6.0.2
