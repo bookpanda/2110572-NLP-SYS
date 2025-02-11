@@ -129,6 +129,7 @@ tensorflow==2.18.0
 termcolor==2.5.0
 tf_keras==2.18.0
 thai-nner==0.3
+thaixtransformers==0.1.0
 threadpoolctl==3.5.0
 tinydb==4.8.2
 tokenizers==0.21.0
