@@ -1,1 +1,2 @@
-*.csv
+wandb
+gcp-key.json
